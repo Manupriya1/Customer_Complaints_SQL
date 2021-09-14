@@ -6,4 +6,4 @@ In this project I extracted the data from government website http://www.consumer
 - Extract the complaints recieved in the state of New York. 
 - Extract the complaints recieved in the state of New York and California. 
 - Extract all rows with the word credit in the Product field.
-- EExtract all the rows with the word late in the Issue field. 
+- Extract all the rows with the word late in the Issue field. 
